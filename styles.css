@@ -137,3 +137,37 @@ img, video {
     max-width: 100%;
     height: auto;
 }
+/* Credits Section Styling fro adnan m. */ 
+#credits {
+  padding: 30px 20px;
+  background-color: #e9ecef; /* Slightly different background for distinction */
+  text-align: center;
+}
+
+.credits-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#credits h3 {
+  font-size: 1.8em;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+#credits p {
+  font-size: 1em;
+  color: #555;
+  line-height: 1.6;
+  margin: 5px 0;
+}
+
+#credits a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#credits a:hover {
+  color: #0056b3;
+}
